@@ -1,6 +1,10 @@
 
 
-challenge
+challenge : create one telegram chatbot
+            train that AI model(who to answer the questions)
+            then ask questions 
+            using n8n - prepare all these
+            finally store all the user chats are stored in google sheets. this is the task.
 
 ---------------------------------------------
 
